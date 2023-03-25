@@ -1,6 +1,6 @@
 # Awesome DevOps Theme
 
-## ✨ A beautiful dark theme for Visual Studio Code designed to be easy on the eyes for long-term coding.
+### <p style="text-align: center;">✨ A beautiful dark theme for Visual Studio Code designed to be easy on the eyes for long-term coding ✨</p>
 
 ![Awesome Devops Theme](./images/Screenshot_half.png)
 
