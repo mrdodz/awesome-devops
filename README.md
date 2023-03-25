@@ -2,14 +2,9 @@
 
 ## ✨ A beautiful dark theme for Visual Studio Code designed to be easy on the eyes for long-term coding.
 
----
-
-![Awesome Devops Theme](./images/Screenshot.png)
-
+![Awesome Devops Theme](./images/Screenshot_half.png)
 
 ## Installation
-
----
 
 1. Open the **Extensions** sidebar in VS Code
 2. Search for **Awesome DevOps**
@@ -18,11 +13,7 @@
 5. Switch to **Awesome DevOps**
 6. Enjoy!  
   
-  
-
 ## Appreciation
-
----
 
 If you like it, please feel free to...
 
