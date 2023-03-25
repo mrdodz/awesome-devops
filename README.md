@@ -4,7 +4,7 @@
 
 ---
 
-![Awesome Devops Theme](./images/Screenshot_half.png)
+![Awesome Devops Theme](./images/Screenshot.png)
 
 
 ## Installation
