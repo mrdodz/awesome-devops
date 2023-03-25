@@ -1,11 +1,22 @@
 {
   "name": "awesome-devops",
-  "displayName": "Awesome DevOps",
-  "description": "",
-  "version": "0.0.1",
+  "displayName": "Awesome DevOps theme",
+  "description": "Stunning theme carefully crafted to be easy on the eyes for long-term work",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.76.0"
+    "vscode": "^1.0.0"
   },
+  "author": {
+    "name": "Nondas Cambanis"
+  },
+  "publisher": "apex-lemons",
+  "license": "MIT",
+  "homepage": "https://github.com/mrdodz/awesome-devops",
+  "repository": "https://github.com/mrdodz/awesome-devops.git",
+  "keywords": [
+    "vscode awesome devops theme"
+  ],
+  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
