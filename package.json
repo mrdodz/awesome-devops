@@ -2,7 +2,7 @@
   "name": "awesome-devops",
   "displayName": "Awesome DevOps theme",
   "description": "Stunning theme carefully crafted to be easy on the eyes for long-term work",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.0.0"
   },
